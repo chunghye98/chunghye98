@@ -15,7 +15,7 @@ I'm striving to become a consistently growing developer.
 
 
 ### 🔗 Contact
-<a href="chunghye1998@gmail.com">
+<a href="mailto:chunghye1998@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=flate&logo=gmail&logoColor=white">
 </a> <a href="notion">
   <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white">
