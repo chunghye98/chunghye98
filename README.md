@@ -21,9 +21,5 @@ I'm striving to become a consistently growing developer.
   <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white">
 </a>
 
-###
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chunghye98&layout=compact&theme=shadow_blue)](https://github.com/chunghye98/github-readme-stats)
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chunghye98&theme=shadow_blue&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) 
 
