@@ -2,7 +2,7 @@
 Hi, there👋 I'm a **backend developer** using Spring. <br/>
 I'm striving to become a consistently growing developer.
 
-### 🛠 Tect Stack
+### 🛠 Tech Stack
 <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white"> <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=springboot&logoColor=white"> <img src="https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=flat&logo=redis&logoColor=white">
 
 <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white"> <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white"> 
