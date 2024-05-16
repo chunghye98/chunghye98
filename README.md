@@ -9,8 +9,8 @@ I'm striving to become a consistently growing developer.
 
 
 ### 📜 Blog
-<a href="https://velog.io/@chunghye98">
-  <img src="https://img.shields.io/badge/velog-298D46?style=flat&logo=velog&logoColor=white">
+<a href="https://545aa7.tistory.com/">
+  <img src="https://img.shields.io/badge/tistory-ED8B00?style=flat&logo=tistory&logoColor=white">
 </a>
 
 
