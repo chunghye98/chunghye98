@@ -17,9 +17,10 @@ I'm striving to become a consistently growing developer.
 ### 🔗 Contact
 <a href="mailto:chunghye1998@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=flate&logo=gmail&logoColor=white">
-</a> <a href="https://noiseless-chauffeur-c9d.notion.site/Back-End-Devloper-682382235e4c4e148506732a97d5bf39?pvs=4">
+</a> 
+<!-- <a href="https://noiseless-chauffeur-c9d.notion.site/Back-End-Devloper-682382235e4c4e148506732a97d5bf39?pvs=4">
   <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white">
-</a>
+</a> -->
 
 
 
