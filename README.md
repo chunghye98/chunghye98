@@ -25,6 +25,7 @@
 **Side Projects**  
 ||Period|Project|Role|Tech Stack|Team/Individual|Repo|
 |----|----|----|----|----|----|---|
-|1|2024.11| 내일일기 | BE | Java/SpringBoot | Team(2)|[Github](https://github.com/Tomorrow-Diary/Tomorrow-Diary)|
-|2|2023.10 ~ 2023.12 | Jazz Meet | BE, DevOps | Java/SpringBoot | Team(6) | [Github](https://github.com/jazz-meet/jazz-meet)|
-|3|2023.08 ~ 2023.10 | Bee Market | BE, DevOps | Java/SpringBoot | Team(4) | [Github](https://github.com/masters2023-4th-project-carrot-talk/carrot-talk-be-a)|
+|1|2025.10 ~ 11 | 써봄 | BE, DevOps | Java/SpringBoot | Team(8) | [Github](https://github.com/SWYP-SUBOM/SWYP-SUBOM-BACKEND)|
+|2|2024.11| 내일일기 | BE | Java/SpringBoot | Team(2)|[Github](https://github.com/Tomorrow-Diary/Tomorrow-Diary)|
+|3|2023.10 ~ 2023.12 | Jazz Meet | BE, DevOps | Java/SpringBoot | Team(6) | [Github](https://github.com/jazz-meet/jazz-meet)|
+|4|2023.08 ~ 2023.10 | Bee Market | BE, DevOps | Java/SpringBoot | Team(4) | [Github](https://github.com/masters2023-4th-project-carrot-talk/carrot-talk-be-a)|
