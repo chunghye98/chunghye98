@@ -7,7 +7,7 @@
 <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white"> <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=springboot&logoColor=white"> <img src="https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=flat&logo=redis&logoColor=white"> <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white"> <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white"> 
 
 **Experience**
-- 2025.01 ~ 재직 중 (주)케파스 - SI
+- 2025.01 ~ 재직 중 (주)케파스 - SI/SM
 
 **Projects**
 - 2025.12 ~ 2026.01 (주)아시아나IDT | 아시아나항공 항공홈페이지 라운지 프로젝트
