@@ -9,23 +9,23 @@
 **Experience**
 - 2025.01 ~ 재직 중 (주)케파스 - SI
 
-**Education**
-- 2024.07 ~ 2024.11 SSAFY 12기 1학기 이수
-- 2023.01 ~ 2023.11 코드스쿼드 백엔드 마스터즈 MAX 수료
-- 2017.03 ~ 2023.02 명지대학 산업경영공학과(주전공)/응용소프트웨어전공(복수전공) 졸업  
-
 **Projects**
 - 2025.12 ~ 진행 중 (주)아시아나IDT | 아시아나항공 항공홈페이지 라운지 프로젝트
 - 2025.10 ~ 2025.11 (주)아시아나IDT | 아시아나항공 항공홈페이지 e-Voucher 단일 사용 개선 프로젝트
-  - 기존 여러개 사용 가능한 e-Voucher를 한 개만 사용 가능하도록 개선
-  - e-Voucher 적용 화면 개발 및 기존 로직 개선
 - 2025.04 ~ 2025.09 (주)아시아나IDT | 아시아나항공 항공홈페이지 Cash&Miles 적용 프로젝트
-  - 캐시앤마일 적용 화면 개발 및 마일리지 적용/조회 로직 구현
 
 **Side Projects**  
 ||Period|Project|Role|Tech Stack|Team/Individual|Repo|
 |----|----|----|----|----|----|---|
-|1|2025.10 ~ 11 | 써봄 | BE, DevOps | Java/SpringBoot | Team(8) | [Github](https://github.com/SWYP-SUBOM/SWYP-SUBOM-BACKEND)|
+|1|2025.10 ~ 2025.11 | 써봄 | BE, DevOps | Java/SpringBoot | Team(8) | [Github](https://github.com/SWYP-SUBOM/SWYP-SUBOM-BACKEND)|
 |2|2024.11| 내일일기 | BE | Java/SpringBoot | Team(2)|[Github](https://github.com/Tomorrow-Diary/Tomorrow-Diary)|
 |3|2023.10 ~ 2023.12 | Jazz Meet | BE, DevOps | Java/SpringBoot | Team(6) | [Github](https://github.com/jazz-meet/jazz-meet)|
 |4|2023.08 ~ 2023.10 | Bee Market | BE, DevOps | Java/SpringBoot | Team(4) | [Github](https://github.com/masters2023-4th-project-carrot-talk/carrot-talk-be-a)|
+
+**Awards**
+- 2025.11 스위프 웹 11기 우수상 수상 - 써봄
+
+**Education**
+- 2024.07 ~ 2024.11 SSAFY 12기 1학기 이수
+- 2023.01 ~ 2023.11 코드스쿼드 백엔드 마스터즈 MAX 수료
+- 2017.03 ~ 2023.02 명지대학 산업경영공학과(주전공)/응용소프트웨어전공(복수전공) 졸업  
